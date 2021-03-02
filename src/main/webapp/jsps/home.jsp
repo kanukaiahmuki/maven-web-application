@@ -20,7 +20,7 @@
 		kana Technologies, 
 		hyderabad, Above ICICI Bank, Beside Meghana Foods,
 		telangana.
-		+91-9980923226,
+		+91-9703670315,
 		<br>
 		<a href="mailto:devopstrainingblr@gmail.com">Mail to kana Technologies</a>
 	</span>
